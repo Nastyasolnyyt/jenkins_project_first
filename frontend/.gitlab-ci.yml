@@ -1,0 +1,15 @@
+stages:
+  - build
+
+build-frontend-code-job:
+  stage: build
+  only:
+    changes:
+      - backend/*
+  script:
+    - cd frontend
+    - npm install
+    - npm run build
+  artifacts:
+    path:
+      - frontend/dist/
