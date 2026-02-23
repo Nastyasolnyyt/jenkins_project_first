@@ -1,0 +1,18 @@
+0 verbose cli /var/jenkins_home/tools/jenkins.plugins.nodejs.tools.NodeJSInstallation/node20/bin/node /var/jenkins_home/tools/jenkins.plugins.nodejs.tools.NodeJSInstallation/node20/bin/npm
+1 info using npm@10.8.2
+2 info using node@v20.20.0
+3 silly config load:file:/var/jenkins_home/tools/jenkins.plugins.nodejs.tools.NodeJSInstallation/node20/lib/node_modules/npm/npmrc
+4 silly config load:file:/var/jenkins_home/workspace/frontend-project/frontend/.npmrc
+5 silly config load:file:/var/jenkins_home/.npmrc
+6 silly config load:file:/var/jenkins_home/tools/jenkins.plugins.nodejs.tools.NodeJSInstallation/node20/etc/npmrc
+7 verbose title npm run build
+8 verbose argv "run" "build"
+9 verbose logfile logs-max:10 dir:/var/jenkins_home/workspace/frontend-project/.npm/_logs/2026-02-23T06_41_42_414Z-
+10 verbose logfile /var/jenkins_home/workspace/frontend-project/.npm/_logs/2026-02-23T06_41_42_414Z-debug-0.log
+11 silly logfile done cleaning log files
+12 verbose cwd /var/jenkins_home/workspace/frontend-project/frontend
+13 verbose os Linux 6.18.5-200.fc43.x86_64
+14 verbose node v20.20.0
+15 verbose npm  v10.8.2
+16 verbose exit 1
+17 verbose code 1
